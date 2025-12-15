@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sai Kiran
+- 👋 Hi, I’m Advik
 - 👀 I’m interested in programming
 - 🌱 I’m currently buiding things with AI
 - 💞️ I’m looking to collaborate on learning new things.
